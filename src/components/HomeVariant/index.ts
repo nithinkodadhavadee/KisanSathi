@@ -1,0 +1,1 @@
+export { HomeVariant } from "./HomeVariant";

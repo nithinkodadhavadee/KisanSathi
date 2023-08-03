@@ -1,0 +1,18 @@
+.home-variant {
+  height: 36px;
+  position: relative;
+  width: 72px;
+}
+
+.home-variant .div {
+  color: #000000;
+  font-family: "Raleway", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}

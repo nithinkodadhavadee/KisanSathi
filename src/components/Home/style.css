@@ -1,0 +1,17 @@
+.home {
+  height: 36px;
+  position: relative;
+  width: 72px;
+}
+
+.home .text-wrapper {
+  color: #083900;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
