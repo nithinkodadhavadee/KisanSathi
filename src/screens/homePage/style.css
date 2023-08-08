@@ -1,9 +1,9 @@
 .macbook-pro {
   background-color: #ffffff;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
-  width: 100%;
+  align-items: center;
 }
 
 .macbook-pro .div-2 {
@@ -13,6 +13,7 @@
   overflow: hidden;
   position: relative;
   width: 1512px;
+  /* overflow: visible; */
 }
 
 .macbook-pro .overlap {
@@ -27,7 +28,7 @@
   height: 1716px;
   left: 0;
   position: absolute;
-  top: 181px;
+  top: 0;
   width: 1512px;
 }
 

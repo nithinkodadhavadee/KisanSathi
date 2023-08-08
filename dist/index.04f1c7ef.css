@@ -69,9 +69,9 @@
 
 .macbook-pro {
   background-color: #fff;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
-  width: 100%;
+  align-items: center;
   display: flex;
 }
 
@@ -96,7 +96,7 @@
   width: 1512px;
   height: 1716px;
   position: absolute;
-  top: 181px;
+  top: 0;
   left: 0;
 }
 

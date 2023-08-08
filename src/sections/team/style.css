@@ -1,0 +1,75 @@
+.rectangles
+{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.rectanglesItem {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+  .rectangle-23 {
+    background-color: #dbf5d7;
+    border-radius: 200px 100px 50px 50px;
+    height: 167px;
+    left: 0;
+    position: absolute;
+    top: 180px;
+    width: 266px;
+  }
+
+
+
+.unsplash {
+    height: 347px;
+    left: 49px;
+
+    top: 0;
+    width: 317px;
+  }
+  
+  
+  .rectangle-24 {
+    background-color: #dbf5d7;
+    border-radius: 200px 100px 50px 50px;
+    height: 167px;
+    left: 0;
+
+    top: 178px;
+    width: 266px;
+  }
+  
+  .unsplash-zxbdvbny {
+    height: 345px;
+    left: 49px;
+
+    top: 0;
+    width: 250px;
+  }
+ 
+  
+  .rectangle-25 {
+    background-color: #dbf5d7;
+    border-radius: 200px 100px 50px 50px;
+    height: 167px;
+    left: 0;
+
+    top: 159px;
+    width: 266px;
+  }
+  
+  .unsplash-k {
+    height: 326px;
+    left: 55px;
+
+    top: 0;
+    width: 236px;
+  }
+  
